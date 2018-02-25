@@ -1,1 +1,1 @@
-web: src SimpleBot.java
+worker: sh target/bin/workerBot
